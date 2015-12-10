@@ -7,4 +7,5 @@ A ordem dos integrantes do grupo é a seguinte:
 1 - Hermano Esch N°USP: 9312710
 2 - Rodrigo Anunciação N°USP: 9312706
 3 - Luís Adolfo Mazini Rodrigues N°USP 8125571
+4 – André Frauches de Conti  N°USP 9312630
 
